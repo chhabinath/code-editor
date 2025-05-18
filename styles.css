@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.editor-container {
+    display: flex;
+}
+
+.editor {
+    width: 50%;
+    height: 300px;
+    border: 1px solid #ccc;
+    resize: none;
+    padding: 10px;
+}
+
+.output {
+    width: 50%;
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
